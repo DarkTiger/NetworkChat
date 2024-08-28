@@ -1,0 +1,11 @@
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\bin\Release\CAClientCHAT.exe.config
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\bin\Release\CAClientCHAT.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\bin\Release\CAClientCHAT.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\obj\Release\CAClientCHAT.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\obj\Release\CAClientCHAT.pdb
+C:\Users\Daniele\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\bin\Release\CAClientCHAT.exe.config
+C:\Users\Daniele\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\bin\Release\CAClientCHAT.exe
+C:\Users\Daniele\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\bin\Release\CAClientCHAT.pdb
+C:\Users\Daniele\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\obj\Release\CAClientCHAT.exe
+C:\Users\Daniele\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\obj\Release\CAClientCHAT.pdb
+C:\Users\Daniele\Desktop\CHAT VISUALSTUDIO\CAServerCHAT\CAClientCHAT\obj\Release\CAServerChat.csprojResolveAssemblyReference.cache

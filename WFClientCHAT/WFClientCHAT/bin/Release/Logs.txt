@@ -1,0 +1,16 @@
+
+25/05/2015 19:49:01   LEVEL: DEBUG  ATTENZIONE: impostazioni nel file di configurazione errate! E' stato impostato: IP: 172.0.0.1  PORTA: 8888
+
+25/05/2015 19:49:01   LEVEL: DEBUG  Connesso al Server di Chat
+
+25/05/2015 19:49:04   LEVEL: DEBUG  Server non raggiungibile
+
+25/05/2015 19:53:52   LEVEL: DEBUG  ATTENZIONE: impostazioni nel file di configurazione errate! E' stato impostato: IP: 172.0.0.1  PORTA: 8888
+
+25/05/2015 19:53:52   LEVEL: DEBUG  Connesso al Server di Chat
+
+25/05/2015 19:55:08   LEVEL: DEBUG  ATTENZIONE: impostazioni nel file di configurazione errate! E' stato impostato: IP: 172.0.0.1  PORTA: 8888
+
+25/05/2015 19:55:08   LEVEL: DEBUG  Connesso al Server di Chat
+
+25/05/2015 19:56:16   LEVEL: DEBUG  Creato file di configurazione

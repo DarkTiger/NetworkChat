@@ -1,0 +1,18 @@
+
+24/05/2015 13:25:37  Level NORMAL  Server di Chat Pronto..
+
+24/05/2015 13:27:39  Level NORMAL  Server di Chat Pronto..
+
+24/05/2015 13:27:53  Level NORMAL  Server di Chat Pronto..
+
+24/05/2015 13:42:15  Level INFO  Creato file di configurazione
+
+24/05/2015 13:42:16  Level NORMAL  Server di Chat Pronto..
+
+25/05/2015 10:03:30  Level INFO  Creato file di configurazione
+
+25/05/2015 10:03:30  Level NORMAL  Server di Chat Pronto..
+
+25/05/2015 10:04:51  Level NORMAL  Server di Chat Pronto..
+
+25/05/2015 10:22:29   LEVEL: DEBUG  Server di Chat Pronto..

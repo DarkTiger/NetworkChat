@@ -1,0 +1,18 @@
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\bin\Debug\WFServerCHAT.exe.config
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.csprojResolveAssemblyReference.cache
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.Properties.Resources.resources
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.csproj.GenerateResource.Cache
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\bin\Debug\WFServerCHAT.exe
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\bin\Debug\WFServerCHAT.pdb
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.Form1.resources
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.exe
+\\repo\studenti$\sirio\informatica\daniele.franceschini\documenti\visual studio 2013\Projects\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\bin\Debug\WFServerCHAT.exe.config
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\bin\Debug\WFServerCHAT.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\bin\Debug\WFServerCHAT.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.csprojResolveAssemblyReference.cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.Form1.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.Properties.Resources.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\CHAT VISUALSTUDIO\WFServerCHAT\WFServerCHAT\obj\Debug\WFServerCHAT.csproj.GenerateResource.Cache
